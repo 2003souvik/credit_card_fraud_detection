@@ -27,5 +27,8 @@ The dataset contains anonymized credit card transactions. Each transaction is la
 - Accuracy achieved: **96.77%**
 
 ---
-
-
+## How to Run 🚀
+- Clone Repository
+- git clone https://github.com/2003souvik/credit_card_fraud_detection.git
+- Run The Script
+- python creditcardfrauddetection.py
